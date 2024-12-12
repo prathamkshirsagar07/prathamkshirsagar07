@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @prathamkshirsagar07
 - 👀 I’m interested in reading
 - 🌱 I’m currently learning coding
-- 💞️ I’m looking to collaborate on data science 
 - 📫 reach on my mail prathamkshirsagar1@gmail.com
 
 <!---
